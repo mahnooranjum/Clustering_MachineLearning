@@ -1,4 +1,4 @@
-# Clutering Algorithms in Machine Learning
+# Clustering Algorithms in Machine Learning
 Implementing heirarchical and K means clustering algorithms in python
 ## Getting Started
 Download the repository and run it using: 
